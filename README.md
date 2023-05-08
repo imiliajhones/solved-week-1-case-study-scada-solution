@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-week-1-case-study-scada-solution
+<br>
+Please provide a one page executive summary on the Blackout of 2003. Your summary should not exceed one single spaced page and should include Who, What, When, Where, Why and How the situation could have been handled or perhaps how the situation was handled correctly. If you are quoting material, please ensure you cite your source accordingly. Use the concepts covered in class to enhance your summary. The Effects of Catastrophic Events on Transportation System Management and Operations is the case study for this week. Please read and provide analysis in the form of an executive summary. Please feel free to search for other information that pertains to the Blackout and how it was triggered by a SCADA failure. The case study rubric can be viewed once you click on the assignment.
+
+due by tonight.apa format for sure
